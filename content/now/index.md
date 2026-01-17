@@ -7,7 +7,7 @@ lastmod = 2025-09-06T18:05:31+07:00
 
 ## Work
 
-I'm working my 9-to-5 as an accountant in Yogyakarta, Indonesia. Most of my days involve spreadsheets and financial reports. Outside of that, I'm continuing to build [SIPD-RI Helper](https://github.com/odhyp/sipd-ri), a tool to automate repetitive tasks on the [SIPD-RI](https://sipd.kemendagri.go.id/) web application.
+I'm working my 9-to-5 as an accountant in Yogyakarta, Indonesia. Most of my days involve spreadsheets and financial reports.
 
 ## Tech
 
@@ -28,25 +28,6 @@ I don't read as much as I'd like, but I keep a few articles bookmarked.
 - [Full-Bleed Layout Using CSS Grid](https://www.joshwcomeau.com/css/full-bleed/) by Josh W. Comeau
 - [Tools for Thought as Cultural Practices, not Computational Objects](https://maggieappleton.com/tools-for-thought) by Maggie Appleton
 - [Faster Horses](https://mxb.dev/blog/faster-horses/) by Max Böck
-
-## Music
-
-I listen to a lot of Radiohead and I’ve learned many of their songs on guitar and piano. Lately, I’ve also been listening to Imagine Dragons and Taylor Swift with my lovely wife. And every morning, my commute starts with Parachutes by Coldplay in my ears.
-
-These are the albums I listen to the most:
-
-{{< wrapper class="md:not-prose md:-mx-8 md:my-8 md:w-[calc(100%+4rem)] md:max-w-none lg:-mx-16 lg:w-[calc(100%+8rem)] xl:-mx-32 xl:w-[calc(100%+16rem)]" >}}
-{{< wrapper class="grid grid-cols-2 gap-4 md:grid-cols-4" >}}
-{{< album href="https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK?si=BiC4dMKCT72TUEBYu0RwJQ" src="https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png" alt="In Rainbows" >}}
-{{< album href="https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ?si=_2b-XeWWRW-lqBTDa8vvPg" src="https://upload.wikimedia.org/wikipedia/en/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png" alt="A Rush of Blood to the Head" >}}
-{{< album href="https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy?si=8HuXfWJyQ-qOWWdr73etog" src="https://upload.wikimedia.org/wikipedia/en/6/61/Radioheadhailtothethief.png" alt="Hail To The Thief" >}}
-{{< album href="https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s?si=0bjFRTVjRZaMLbBgNL8LzA" src="https://upload.wikimedia.org/wikipedia/en/b/b4/Muse_-_Absolution_Cover_UK.jpg" alt="Absolution" >}}
-{{< album href="https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr?si=2luUFPRZTL6mAPhE2zpNWw" src="https://upload.wikimedia.org/wikipedia/en/8/8a/Coldplay_-_Ghost_Stories.png" alt="Ghost Stories" >}}
-{{< album href="https://open.spotify.com/album/0tzfI6NFJqcJkWb23R3lRZ?si=F75--tUfRUG8nqp8B8MA8g" src="https://i.scdn.co/image/ab67616d0000b2730797b2dcca7a453c3374c599" alt="OK Computer OKNOTOK 1997 2017" >}}
-{{< album href="https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=WDVTz_dXQPuHCpGX-RMVKA" src="https://upload.wikimedia.org/wikipedia/en/6/64/SystemofaDownToxicityalbumcover.jpg" alt="Toxicity" >}}
-{{< album href="https://open.spotify.com/album/1vdQ5t7iO2gC3OX7j2GFCt?si=AHVl4NaZQimB0IrMVhAfRA" src="https://upload.wikimedia.org/wikipedia/en/5/5b/Radiohead.imightbewrong.albumart.jpg" alt="I Might Be Wrong: Live Recordings" >}}
-{{< /wrapper >}}
-{{< /wrapper >}}
 
 ## Podcast
 
